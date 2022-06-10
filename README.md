@@ -1,3 +1,3 @@
 # portifolio-GEAN
 
-portifolio do GEAN
+PORTIFÓLIO DO GEAN
